@@ -1,0 +1,63 @@
+/* Welcome to the CSS PAGE */
+
+	/* padding-left:30px;
+	padding-right:30px;
+	padding-top:20px;
+	padding-bottom:20px; */
+
+	/* font-family: 'Lobster', cursive; */
+
+	/* font-family: 'Quicksand', sans-serif; */
+
+body{
+  background-color:#F16206;
+}
+
+
+h1{
+  
+  color:#FF7878;
+  font-family: 'Lobster', cursive;
+  font-size: 65px;
+}
+
+h2{
+  
+  color:#FF7878;
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+}
+
+img{
+  height: 600px;
+  border-radius: 8px;
+}
+
+p{
+  color:#FF7878;
+  font-size: 30px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.link{
+  color: white;
+  background-color: #f4d057;
+  text-decoration:none;
+  padding-left:30px;
+	padding-right:30px;
+	padding-top:20px;
+	padding-bottom:20px;
+  border-radius: 8px;
+}
+
+
+.button{
+  color: white;
+  background-color: #c52549;
+  text-decoration:none;
+  padding-left:30px;
+	padding-right:30px;
+	padding-top:20px;
+	padding-bottom:20px;
+  border-radius: 8px;
+}
